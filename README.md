@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=440&lines=Desenvolvedor+em+Construção;Apaixonado+por+tecnologia+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Em+constante+aprendizado+%E2%9C%A8" />
 </h1>
 
-<img align="center" src="https://raw.githubusercontent.com/cauaducapa/cauaducapa/main/banner-caua.png" alt="Banner" width="100%" />
-
 ---
 
 ## ✨ Sobre mim
