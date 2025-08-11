@@ -58,13 +58,11 @@ Amo compartilhar conhecimento e contribuir com a comunidade open-source. 🧠
 
 ## 📫 Contato
 
-- GitHub: [@cauaducapa](https://github.com/DevCaua10)
+- GitHub: [@DevCaua10](https://github.com/DevCaua10)
 - Email: sousacaua291@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/cau%C3%A3-sousa-b4366622b/)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=120&section=footer"/>
-</p>
+
 
