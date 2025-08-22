@@ -40,7 +40,7 @@ Amo compartilhar conhecimento e contribuir com a comunidade open-source. 🧠
 |---------|----------------|
 | <img src="https://github-readme-stats.vercel.app/api?username=DevCaua10&show_icons=true&theme=radical&hide_border=true&count_private=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaua10&layout=compact&theme=radical&hide_border=true"/> |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCaua10a&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevCaua10&theme=radical&hide_border=true"/>
 
 </div>
 
