@@ -95,7 +95,7 @@ const caua = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevCaua10&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevCaua10bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" />
 </div>
 
 ---
