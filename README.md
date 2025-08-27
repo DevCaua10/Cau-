@@ -1,3 +1,6 @@
+Aqui está uma versão atualizada do seu README com as alterações que você pediu: React, React Native e PHP adicionados às linguagens, e corrigindo o nome de usuário `DevCaua10` nas imagens. Também ajustei algumas URLs para refletir corretamente o seu GitHub.
+
+````markdown
 # 🌟 Olá! Eu sou o Cauã Sousa
 
 <div align="center">
@@ -23,7 +26,7 @@
 
 ## 🎯 Sobre Mim
 
-<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/DevCaua10/DevCaua10/master/gif3.gif">
 
 ```javascript
 const caua = {
@@ -32,10 +35,10 @@ const caua = {
   location: "São Paulo, Brasil 🇧🇷",
   education: "Estudante de Tecnologia",
   
-  code: ["JavaScript", "HTML", "CSS", "SQL"],
+  code: ["JavaScript", "React", "React Native", "HTML", "CSS", "PHP", "SQL"],
   technologies: {
-    frontend: ["React", "HTML5", "CSS3", "Bootstrap", "Responsive Design"],
-    backend: ["Node.js", "Express", "RESTful APIs"],
+    frontend: ["React", "React Native", "HTML5", "CSS3", "Bootstrap", "Responsive Design"],
+    backend: ["Node.js", "Express", "PHP", "RESTful APIs"],
     database: ["MySQL", "Database Design"],
     tools: ["Git", "GitHub", "VS Code", "Figma"]
   },
@@ -50,33 +53,38 @@ const caua = {
             "🔍 Amo resolver bugs complexos",
             "☕ Movido a café e curiosidade"]
 };
-```
+````
 
 ---
 
 ## 🛠️ Arsenal Tecnológico
 
 ### 💻 Linguagens de Programação
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=js,react,reactnative,html,css,php,sql" />
 </div>
 
 ### 🎨 Frontend
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,html,css,bootstrap,sass,figma" />
 </div>
 
 ### ⚙️ Backend & Banco de Dados
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postman" />
 </div>
 
 ### 🔧 Ferramentas & Controle de Versão
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn" />
 </div>
 
 ### 📚 Estudando Atualmente
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,docker" />
 </div>
@@ -95,7 +103,7 @@ const caua = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevCaua10bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevCaua10&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" />
 </div>
 
 ---
@@ -111,9 +119,9 @@ const caua = {
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevCaua10&repo=repo1&theme=tokyonight&hide_border=true)](https://github.com/DevCaua10/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevCaua10&repo=repo2&theme=tokyonight&hide_border=true)](https://github.com/DevCaua10/repo2)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevCaua10\&repo=repo1\&theme=tokyonight\&hide_border=true)](https://github.com/DevCaua10/repo1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevCaua10\&repo=repo2\&theme=tokyonight\&hide_border=true)](https://github.com/DevCaua10/repo2)
 
 </div>
 
@@ -123,7 +131,6 @@ const caua = {
 
 ## 📈 Contribuições & Atividade
 
-<!--START_SECTION:activity-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevCaua10&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
@@ -133,13 +140,13 @@ const caua = {
 ## 🎨 Habilidades & Interesses
 
 <div align="center">
-  
+
 | 🌟 **Especialidades** | 🎯 **Focado em** | 🌱 **Aprendendo** |
-|:---:|:---:|:---:|
-| Desenvolvimento Web | React & Node.js | Next.js |
-| UI/UX Design | APIs RESTful | TypeScript |
-| Banco de Dados | Clean Code | Docker |
-| Controle de Versão | Performance Web | MongoDB |
+| :-------------------: | :--------------: | :---------------: |
+|  Desenvolvimento Web  |  React & Node.js |      Next.js      |
+|      UI/UX Design     |   APIs RESTful   |     TypeScript    |
+|     Banco de Dados    |    Clean Code    |       Docker      |
+|   Controle de Versão  |  Performance Web |      MongoDB      |
 
 </div>
 
@@ -171,7 +178,7 @@ const caua = {
 ## 🌟 O que me motiva
 
 <div align="center">
-  
+
 ```
 🎯 "Código não é apenas sobre resolver problemas,
     é sobre criar possibilidades infinitas!"
@@ -190,11 +197,11 @@ const caua = {
 ## 📱 Conecte-se Comigo
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCaua10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-sousa-b4366622b/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousacaua291@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DevCaua10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-sousa-b4366622b/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sousacaua291@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=About.me\&logoColor=white)](#)
 
 </div>
 
@@ -203,8 +210,8 @@ const caua = {
 ## 🎵 Atualmente Ouvindo
 
 <div align="center">
-  
-[![Spotify](https://img.shields.io/badge/Spotify-Lo--fi%20Hip%20Hop-1ED760?style=for-the-badge&logo=spotify&logoColor=white)]()
+
+[![Spotify](https://img.shields.io/badge/Spotify-Lo--fi%20Hip%20Hop-1ED760?style=for-the-badge\&logo=spotify\&logoColor=white)]()
 *Programando ao som de beats relaxantes* 🎧
 
 </div>
@@ -232,9 +239,14 @@ const caua = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  
+
   <h3>💜 Obrigado pela visita!</h3>
   <p><i>Vamos construir o futuro juntos, uma linha de código por vez!</i></p>
-  
+
   <img src="https://komarev.com/ghpvc/?username=DevCaua10&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </div>
+```
+
+Se quiser, posso fazer uma **versão ainda mais enxuta e moderna**, otimizada para aparecer melhor no GitHub, mantendo todos os badges, GIFs e animações.
+
+Quer que eu faça isso?
