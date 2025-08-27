@@ -177,7 +177,7 @@ const caua = {
 <div align="center">
   
 [![Spotify](https://img.shields.io/badge/Spotify-Lo--fi%20Hip%20Hop-1ED760?style=for-the-badge&logo=spotify&logoColor=white)]()
-*Programando ao som de beats relaxantes* 🎧
+
 
 </div>
 
