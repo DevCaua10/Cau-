@@ -116,23 +116,12 @@ const caua = {
 
 ---
 
-## 🚀 Projetos em Destaque
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevCaua10\&repo=repo1\&theme=tokyonight\&hide_border=true)](https://github.com/DevCaua10/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevCaua10\&repo=repo2\&theme=tokyonight\&hide_border=true)](https://github.com/DevCaua10/repo2)
-
-</div>
-
-> *💡 Explore meus repositórios para ver mais projetos interessantes!*
-
----
 
 ## 📈 Contribuições & Atividade
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevCaua10&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevCaua10theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
@@ -247,6 +236,3 @@ const caua = {
 </div>
 ```
 
-Se quiser, posso fazer uma **versão ainda mais enxuta e moderna**, otimizada para aparecer melhor no GitHub, mantendo todos os badges, GIFs e animações.
-
-Quer que eu faça isso?
