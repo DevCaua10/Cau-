@@ -91,7 +91,7 @@ const caua = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevCaua10&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevCaua10theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -100,23 +100,7 @@ const caua = {
 
 ---
 
-## 🏆 Conquistas GitHub
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevCaua10theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-
-## 📈 Contribuições & Atividade
-
-<!--START_SECTION:activity-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevCaua10theme=tokyonight&hide_border=true&layout=compact" />
-</div>
-
----
 
 ## 🎨 Habilidades & Interesses
 
@@ -182,7 +166,7 @@ const caua = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCaua10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-sousa-b4366622b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousacaua291@gmail.com)
-white)](#)
+
 
 </div>
 
