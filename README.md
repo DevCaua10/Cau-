@@ -103,29 +103,17 @@ const caua = {
 ## 🏆 Conquistas GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevCaua10&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevCaua10theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevCaua10&repo=repo1&theme=tokyonight&hide_border=true)](https://github.com/DevCaua10/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevCaua10&repo=repo2&theme=tokyonight&hide_border=true)](https://github.com/DevCaua10/repo2)
-
-</div>
-
-> *💡 Explore meus repositórios para ver mais projetos interessantes!*
-
----
 
 ## 📈 Contribuições & Atividade
 
 <!--START_SECTION:activity-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevCaua10&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DevCaua10theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
@@ -194,7 +182,7 @@ const caua = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevCaua10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-sousa-b4366622b/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousacaua291@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+white)](#)
 
 </div>
 
