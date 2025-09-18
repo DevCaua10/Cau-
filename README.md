@@ -91,7 +91,7 @@ const caua = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevCaua10theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevCaua10&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
