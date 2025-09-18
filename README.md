@@ -90,9 +90,7 @@ const caua = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaua10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevCaua10&theme=tokyonight&hide_border=true" />
-</div>
+
 
 <div align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevCaua10&bg_color=1a1b27&color=628fdb&line=628fdb&point=19f4d6&area=true&hide_border=true" />
