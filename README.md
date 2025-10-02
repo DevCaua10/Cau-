@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/DevCaua10">
-    <img src="https://img.shields.io/github/followers/DevCaua10?label=Seguidores&style=social" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/DevCaua10&label=Seguidores&style=social" alt="GitHub followers"/>
   </a>
   <a href="https://github.com/DevCaua10">
     <img src="https://komarev.com/ghpvc/?username=DevCaua10&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile views"/>
