@@ -86,7 +86,7 @@ const caua = {
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevCaua10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevCaua10&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCaua10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
