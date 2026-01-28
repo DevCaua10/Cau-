@@ -32,7 +32,7 @@ const caua = {
   location: "São Paulo, Brasil 🇧🇷",
   education: "Estudante de Tecnologia",
   
-  code: ["JavaScript", "HTML", "CSS", "SQL"],
+  code: ["JavaScript", "HTML","PHP", "CSS", "SQL"],
   technologies: {
     frontend: ["React", "HTML5", "CSS3", "Bootstrap", "Responsive Design"],
     backend: ["Node.js", "Express", "RESTful APIs"],
@@ -58,7 +58,7 @@ const caua = {
 
 ### 💻 Linguagens de Programação
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=js,html,php,css,Mysql" />
 </div>
 
 ### 🎨 Frontend
